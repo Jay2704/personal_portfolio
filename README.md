@@ -11,13 +11,32 @@ My name is **Jay Paun** and I am currently pursuing a Master of Science in Compu
 - **Phone:** +1 (667)-433-1441
 - [LinkedIn Profile](https://www.linkedin.com/in/jay-paun-baa8ab217/)
 - [GitHub Profile](https://github.com/Jay2704)
+- [LeetCode Profile](https://leetcode.com/u/Decoder2704/)
 
 ## Technical Skills
 
-- **Programming Languages:** Python, Java, SQL, JavaScript, C++, C, HTML, CSS
-- **Frameworks:** ReactJs, NodeJS, ExpressJs, TensorFlow, PyTorch
-- **Version Control:** Git
-- **Concepts:** Operating System, Computer Networks, Database Management Systems, Encryption, Decryption, Artificial Intelligence, Machine Learning, Neural Networks, API, Agile Methodology, Cloud Computing, Linux System Programming
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+### Tools and Concepts
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Agile](https://img.shields.io/badge/-Agile-007FFF?style=flat&logo=agile&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ## Projects
 
