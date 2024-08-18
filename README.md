@@ -1,3 +1,7 @@
+Here's the updated README content with the Research Assistant position included:
+
+---
+
 # Personal Portfolio
 
 This repository contains my personal portfolio, showcasing my skills, projects, and experience as a software developer.
@@ -61,6 +65,11 @@ My name is **Jay Paun** and I am currently pursuing a Master of Science in Compu
 
 ## Experience
 
+### Research Assistant - University of Maryland Baltimore County (Aug 2024 – Present)
+- **Supervisor:** Professor Ramana Vinjamuri
+- Conducting research on EEG classification of emotion, focusing on detecting stress and deception using deep learning models, particularly transformers.
+- Learning and implementing deep learning models in PyTorch, with an emphasis on training and fine-tuning these models for EEG data.
+
 ### Site Reliability Engineer - HPE (Feb 2023 – July 2023)
 - **Company:** HPE (contractor: Primus Global Tech), Bangalore, India
 - Automated tasks by writing and running Ansible scripts in Ansible Tower, increasing efficiency by 20%.
@@ -74,3 +83,7 @@ My name is **Jay Paun** and I am currently pursuing a Master of Science in Compu
 - Created a time-based search system to retrieve logs by timestamp, facilitating quick access to historical data.
 - Developed a hashed error code dictionary linked to known issues, enabling quick identification and resolution of recurring problems.
 - Automated error code categorization, simplifying error management and improving troubleshooting efficiency.
+
+---
+
+This README now includes your recent role as a Research Assistant, detailing your contributions and responsibilities in that position.
